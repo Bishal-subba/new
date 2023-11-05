@@ -1,4 +1,4 @@
 # new
 practice makes perfect
 <br>
-author- Bishal Subba
+author- Bishal Subba(mody)
